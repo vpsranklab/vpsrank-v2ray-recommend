@@ -54,6 +54,18 @@
 
 
 
+## [VilaVPN](https://vilavpn.com/aff.php?aff=11933)
+
+一款零日志策略，没有审计规则的V2Ray机场，全节点IPLC专线。新用户第一个月可享受 50% 折扣。
+
+运营时长：5年以上
+
+入门订阅：$6.28/月
+
+支付方式：支付宝、银行卡、USDT（TRC20）
+
+
+
 ## [Just My Socks](https://justmysocks5.net/members/aff.php?aff=28464)
 
 **Platinum白金认证**
