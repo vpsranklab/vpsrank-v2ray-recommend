@@ -92,6 +92,18 @@
 
 
 
+## [V2Free](https://w1.v2free.cc/auth/register?code=Hb4K)
+
+一家良心的V2Ray机场，注册用户提供**免费节点**。付费用户解锁流媒体。
+
+运营时长：未知
+
+入门订阅：￥20/月
+
+支付方式：微信、支付宝、银行卡、USDT（TRC20）、PayPal
+
+
+
 ## [沐云](https://world.mucloud.one/auth/register?code=0oGHanF2TDo31gTgoEWXB9gslXPybwWW)
 
 一家小众机场。全部采用隧道线路，运行稳定、低延迟。流媒体解锁，ChatGPT访问支持。
