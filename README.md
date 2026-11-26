@@ -1,257 +1,56 @@
-# 2026年最佳翻墙工具：V2Ray/Xray稳定机场推荐与排名
+# 2026 年翻墙机场推荐与排名（48 家）
 
-## 🔽 你可能还需要
+本榜与 [机场大师](https://jichangdashi.com/) 首页排名逐项一致，按名次排列，更新于 2026-11-26。价格、线路与活动以各官网当时信息为准。
 
-### 机场排名与推荐
-
-机场大师：[https://jichangdashi.com](https://www.jichangdashi.com/)
-
-### 机场优惠与推荐
-
-VPS World：[https://vpsworld.org](https://vpsworld.org/)
-
-### 热门机场监测
-
-机场监测：[https://jichang.watch](https://jichang.watch/)
+1. **[Gatern机场](https://s.gtnb.net/invite/e6ZDC8kB3GN9)** — Gatern机场 (原：Shuttle）创建于2020年，是一家专业的高速稳定V2Ray机场，支持Netflix/HULU/HBO/TVB/动画疯等国外流媒体视频，全部使用BGP隧道中转和IPLC内网专线，因为IPLC内网专线不过GFW，不会被封锁，在特殊时期也非常稳定。 参考起步价 ¥24/月。
+2. **[山水云](https://sldm1.ssyylf.com/#/register?code=C4kDpf1I)** — 山水云机场是一家主打高端 IEPL 专线的机场服务，采用中转与直连节点组合，强调晚高峰稳定性、低丢包率和流媒体/AI 平台解锁能力。 参考起步价 ¥14.9/月。
+3. **[秒秒云](https://dl2.mmy8.com/#/register?code=IJ6rkgxa)** — 秒秒云机场是一家主打高端 IEPL 专线的机场服务，采用 BGP 优化高速中转线路，强调晚高峰稳定性、低丢包率以及流媒体/AI 平台解锁能力。 参考起步价 ¥14/月。
+4. **[ByWave](https://u.bws.lol/aff.php?aff=15543)** — ByWave机场，主打高端的 V2ray 机场。 参考起步价 ¥30/月。
+5. **[Nice 加速](https://www.nicecc.cc/#/register?code=u1VP6DS9)** — Nice加速是一家提供高性价比 IEPL 专线 VPN 服务的机场，支持 Vmess 和 Vless 协议，主打专线线路、原生 IP、家宽节点、流媒体解锁与 AI 工具访问。 参考起步价 ¥15/月。
+6. **[XMRTH](https://www.xmrth.lol/auth/register?code=CauL)** — XMRTH机场，一家性价比超高的 V2Ray 机场。 参考起步价 ¥16/月。
+7. **[Firefly](https://shadow.fireflyaff.com/#/?code=Flc1SKfY)** — Firefly机场创立于 2026 年，采用 VLESS 协议与 IPLC 专线，主打低延迟、高稳定性的网络连接体验。 参考起步价 ¥25/月。
+8. **[闪跃云](https://shadow_vps.flashleapaff.com/#/?code=xchu9CoT)** — 闪跃云机场是一家采用 VLESS 协议的机场服务，主打 IPLC 纯专线、原生 IP 与晚高峰不限速。 参考起步价 ¥24/月。
+9. **[梯子云](https://shadow.ladderaff.com/#/?code=1eFGv00U)** — 梯子云机场全线采用企业级 IEPL 纯专线，融合智能负载均衡与三网入口优化，全面保障国内用户在晚高峰期间的极速与超强稳定性。 参考起步价 ¥25/月。
+10. **[极速Cloud](https://191.101.132.80/#/register?code=FPYVJ8Yf)** — 极速Cloud机场是一家采用 VLESS 协议的机场服务，主打中国电信、中国联通和中国移动三网精品优化线路。 参考起步价 ¥30/月。
+11. **[无忧链接](https://shadow_vps.worryfreeaff.com/#/?code=bDVnNZ9Y)** — 无忧链接机场成立于 2024 年 12 月，采用全新 VLESS 协议与 IPLC 专线，运营团队为海外团队，主打稳定、低延迟的线路体验，全天客服轮班响应用户需求。 参考起步价 ¥19/月。
+12. **[锦云](https://w2.whengdl.com/#/register?code=aeDs9Tg6)** — 锦云机场是山水云旗下子品牌，主打高端 IEPL 专线，强调晚高峰稳定性、低丢包率以及流媒体/AI 平台解锁能力。 参考起步价 ¥6/月。
+13. **[边缘节点（EdgeNode/EdgeNova）](https://LimitOffer.edgenovaaff.cc/#/register?code=lNKie3Jl)** — 边缘节点（EdgeNode），成立于 2026 年初，是一款面向日常使用与高强度网络需求用户的全球加速服务，主打稳定、高速与智能连接体验。 参考起步价 ¥25/月。
+14. **[速界](https://shadow_vps.speedworldaff.com/#/register?code=MNcshgzF)** — 速界云机场于 2026 年 2 月开始运营，是一家专注于高稳定、低延迟网络连接的企业级 IEPL 专线机场。 参考起步价 ¥25/月。
+15. **[Echo 机场](https://1.6888n.cn/#/register?code=rYhpei09)** — Echo机场主打老牌稳定、高速专线与长期运营体验，套餐低至 10 元/月起，注册后可试用 1 小时。 参考起步价 ¥20/月。
+16. **[云图机场 CloudMap](https://vip.ytjcok.org/#/register?code=j2bm10sm)** — 云图机场（CloudMap）全面采用金融级专线传输，依托高规格跨境专线与优质节点拓扑，三网全面优化，保障高峰期依然低延迟、零丢包，提供 24 小时全天候稳定、高速、流畅的跨境网络体验。 参考起步价 ¥25/月。
+17. **[瞬云](https://syjccloud.com/#/register?code=RZXikfqO)** — 瞬云机场，成立于 2026 年初，是一家专注提供出海专线加速与流媒体解锁服务的网络加速品牌。 参考起步价 ¥20/月。
+18. **[一翻云](https://shadowvps.yifanaff.com/#/register?code=5pHch66L)** — 一翻云机场，成立于 2026 年中，采用高阶 VLESS 协议与优质跨境专线，主打高速稳定、全平台自研客户端和一键连接体验。 参考起步价 ¥25/月。
+19. **[Sogo云](https://vpsrank.sogoaff.com/#/login?code=9MXtlxq4)** — Sogo云机场是一家专注于提供高速稳定网络连接服务的机场，采用 VLESS 协议、企业级 IPLC 专线与三网优化，并配合智能负载均衡技术，保障不同使用场景下的连接稳定性与效率。 参考起步价 ¥25/月。
+20. **[一号云](https://47.243.112.133:5111/#/register?code=FAMeoHVr)** — 一号云机场（One）是一家面向轻量出海、跨境办公与日常影音需求的高性价比网络加速服务商。 参考起步价 ¥7/月。
+21. **[九云](https://216.236.63.122/#/register?invite_code=Der5oAyd)** — 九云机场是一家基于现代化 Xboard 架构构建、主打“超大流量、高突发带宽与晚高峰速率保障”的高性价比网络加速服务商。 参考起步价 ¥5/月。
+22. **[稳连云](https://w2.wenliandl.com/#/register?invite_code=m0TikC52)** — 稳连云机场是一家专注于中国大陆方向极致优化的综合型专线网络加速服务商。 参考起步价 ¥8/月。
+23. **[鲤云](https://l8.liyun888dl.com//app.html#/register?code=njlfzObZ)** — 鲤云机场是一家主打超高性价比的出海专线加速服务商，致力于为外贸办公、学术科研、轻量出海追剧以及 AI 工具使用者提供低门槛、高稳定性的网络连接服务。 参考起步价 ¥5/月。
+24. **[宝云机场](https://by2.baoyundl.com/#/register?invite_code=iWRAKY88)** — 宝云机场是一家专注于超高性价比与大流量供给的高速网络加速服务商。 参考起步价 ¥4/月。
+25. **[小蜜蜂机场 XMFWWW](https://inva.xmfaff.cc/register?aff=Gsv93MEy)** — 小蜜蜂机场 xmfwww，海外团队运营，全 IEPL 专线机场，原生 IP 节点，全部节点解锁 ChatGPT、Netflix、TikTok 等。 参考起步价 ¥20/月。
+26. **[星岛梦](https://wuyou202001.xdmvipaff.cc/#/?code=oRHUjMod)** — 星岛梦机场，成立于 2025 年，海外团队运营，性价比专线，24 小时在线客服，专业、靠谱、稳定。 参考起步价 ¥25/月。
+27. **[闪狐云 Flash Fox](https://i01.ffaff.cc/register?aff=Q1NgBTYd)** — 闪狐云机场 Flash Fox，海外团队运营，通过五大运营商 BGP+IPLC 动态优化和国际多个出口节点，采用TLS协议加密技术，保障网络连接稳定无忧。 参考起步价 ¥20/月。
+28. **[青云梯 QYT](https://ivt02.qytaff.cc/register?aff=iGdya5NS)** — 青云梯机场 QYT，成立于 2021 年 11 月，新加坡海外团队运营，性价比专线，24 小时在线客服，专业、靠谱、稳定，任何线路问题都是 1 小时内修复处理，支持退款。 参考起步价 ¥25/月。
+29. **[二猫云机场](https://vip.ermaoaff.com/#/register?code=OFmPdWji)** — 二猫云机场，成立于 2026 年初，是一家专注提供出海专线加速与流媒体解锁服务的网络加速品牌。 参考起步价 ¥20/月。
+30. **[银河云](https://inv03.galaxyaff.cc/register?aff=SAsFSLEQ)** — 银河云机场 GalaxyCloud，成立于 2024 年 6 月，新加坡海外团队运营，性价比专线，24 小时在线客服，专业、靠谱、稳定，任何线路问题都是 1 小时内修复处理，支持退款。 参考起步价 ¥18/月。
+31. **[肥猫云 FatCat](https://inv01.fatcatcloud.cc/register?aff=NgDxu7Qm)** — 肥猫云机场 FatCat，全中转大带宽全部节点原生 IP，全部节点解锁 ChatGPT、TikTok 等。 参考起步价 ¥20/月。
+32. **[蓝帆云](https://lanfanz.cc/auth/register?code=2OA2)** — 可选 IEPL 专线节点，入门订阅 11.99 元/月。
+33. **[尔湾云](https://erwan6.net/auth/register?code=6zBETW)** — 新兴厂商，此前文章标注存在风险，购买前请自行核实。
+34. **[一云梯](https://inv01.1ytaff.com/register?aff=NkAlyJDv)** — 全 IPLC 专线传输，不限速，不限制设备数，入门订阅 15 元/月。
+35. **[Just My Socks](https://justmysocks5.net/members/aff.php?aff=28464)** — 搬瓦工旗下机场，自动切换被墙 IP，2.5–5 Gbps 速率可选。
+36. **[全球云机场](https://shadow.gcvipaff.com/#/?code=xt1gTZow)** — 全球云机场，成立于 2026 年初，是一家专注提供出海专线加速与流媒体解锁服务的网络加速品牌。 参考起步价 ¥20/月。
+37. **[SRnet](https://www.sspro.org/aff.php?aff=1694)** — SRNet机场 是一家专业的高速稳定机场，支持 Netflix/HULU 等主流流媒体视频，以及 ChatGPT 访问。 参考起步价 ¥15/月。
+38. **[FlyingBird 飞鸟](https://fbinv02.fbaff.cc/auth/register?code=E6rH)** — 不限客户端数量，不限连接速率，入门订阅 15 元/月。
+39. **[v2net](http://x.v2ray.cx/aff.php?aff=3901)** — 入门订阅 1.90 美元/月，仅试用，不支持退款。
+40. **[v2free](https://w1.v2free.cc/auth/register?code=ut61)** — 入门订阅 5 元/月，仅试用，不支持退款。
+41. **[Bridge The Wise](https://x.compasssec.net/#/register?code=caBHDjYc)** — 高端 V2Ray 机场，IPLC 专线与经济线路选择，支持 2 天低价试用。 参考起步价 ¥25.4/月。 ⚠️ 此前文章标注过风险，购买前请自行核实。
+42. **[可信云机场](https://01.kosingaff.cc/#/register?code=aDx5tYE2)** — 可信云机场，成立于 2026 年初，是一家专注提供出海专线加速与流媒体解锁服务的网络加速品牌。 参考起步价 ¥25/月。
+43. **[TNT Cloud](https://shadowotone.tntvipaff.cc/#/register?code=bnj4SRkC)** — TNT Cloud机场，是一家 2024 年 7 月成立的新兴机场，该机场**主打 Trojan 协议**，服务稳定，是老牌机场的分站团队，也是海外团队，有专业的客服团队。 参考起步价 ¥10/月。
+44. **[光速云](https://ferhuire.gsyvipaff.com/#/?code=A7TcwbkO)** — 光速云机场 LightSpeed，成立于 2025 年，海外团队运营，性价比专线，24 小时在线客服，专业、靠谱、稳定。 参考起步价 ¥17/月。
+45. **[隐形人](https://asfeoasf.invisibleattt.sbs/#/?code=8kjA2hGf)** — 隐形人（Invisible）是新加坡海外团队打造的大机房纯专线机场，同时也是面向全球的高性能、低延迟专线接入与联盟合作伙伴平台。 参考起步价 ¥24/月。
+46. **[寰宇云](https://vip3.huanyuyunbest.com/#/register?code=2vW5C1r4)** — 寰宇云机场，成立于 2026 年初，是一家专注提供出海专线加速与流媒体解锁服务的网络加速品牌。 参考起步价 ¥16/月。
+47. **[唯兔云](https://shadow_vps.v2cvipaff.cc/#/?code=TZjwRULn)** — 唯兔云机场，成立于 2025 年，海外团队运营，性价比专线，24 小时在线客服，专业、靠谱、稳定。 参考起步价 ¥14.9/月。
+48. **[灵动云](https://asfweroasf.lingdongttt.sbs/#/?code=TEU4muQD)** — 灵动云机场成立于 2025 年，是新加坡海外团队大机房出品的专线机场，主打 VLESS 协议专线，性价比高，24 小时在线客服，任何线路问题均承诺 1 小时内修复处理，并支持退款。 参考起步价 ¥20/月。
 
 ---
 
-## **🥇 [Gatern](https://s.gtnb.net/invite/e6ZDC8kB3GN9)**
-
-【[站内介绍](/v2ray-gatern)】【[官网直达](https://s.gtnb.net/invite/e6ZDC8kB3GN9)】
-
-老牌机场，IPLC 专线，支持 AnyTLS、Trojan 协议。除了支持常规亚洲线路外，额外支持：马来西亚、菲律宾、印度尼西亚、印度、泰国、越南、巴基斯坦、以色列、哈萨克斯坦、阿联酋、澳大利亚、新西兰、美国、加拿大、墨西哥、阿根廷、巴西、英国、法国、德国、意大利、荷兰、瑞典、俄罗斯、乌克兰、土耳其、波兰、丹麦、立陶宛、拉脱维亚、瑞士、罗马尼亚、埃及、南非、尼日利亚等小众地域节点。
-
-兼容 Clash/Mihomo 配置文件，最多允许 10 个设备同时在线。入门订阅 24 元/月。
-
-## **🥈 [山水云](https://sldm1.ssyylf.com/#/register?code=C4kDpf1I)**
-
-采用全新 AnyTLS、VLESS 协议，小众地域节点支持广泛，IPLC 专线，兼容 Clash/Mihomo 订阅。入门订阅 14.9 元/月。
-
-## **🥉 [秒秒云](https://dl2.mmy8.com/#/register?code=IJ6rkgxa)**
-
-采用全新 AnyTLS、VLESS 协议，小众地域节点支持广泛，IPLC 专线，兼容 Clash/Mihomo 订阅。入门订阅 14 元/月。
-
-## [ByWave](https://u.bws.lol/aff.php?aff=15543)
-
-【[站内介绍](/v2ray-bywave/)】【[官网直达](https://u.bws.lol/aff.php?aff=15543)】
-
-老牌机场，2026 年 3–7 月长期停摆，8 月后恢复运营；稳定性仍待观察，建议月付。**万兆金融级 IEPL 专线**，支持 Trojan 协议，最多允许 10 个设备同时在线。入门订阅 30 元/月。
-
-## [Nice 加速](https://www.nicecc.cc/#/register?code=u1VP6DS9)
-
-小众地域节点支持广泛，IPLC 专线，支持 VMess、VLESS 协议，兼容 Clash/Mihomo 订阅。入门订阅 15 元/月。
-
-## 其它推荐
-
-### [**XMRTH**](https://www.xmrth.lol/auth/register?code=CauL)
-
-【[站内介绍](/v2ray-xmrth/)】【[官网直达](https://www.xmrth.lol/auth/register?code=CauL)】
-
-**9 折优惠码**：XMRTH
-
-老牌机场，IPLC 专线，每日签到送流量，曾经的性价比王者。支持 VMess 协议，兼容 Clash/Mihomo 配置文件。入门订阅 16 元/月。
-
-### [Firefly](https://shadow.fireflyaff.com/#/?code=Flc1SKfY)
-
-2026 年新机场，全平台自研客户端，IPLC 专线，支持 VLESS 协议，晚高峰延迟表现优异。入门订阅 25 元/月。
-
-### [闪跃云](https://shadow_vps.flashleapaff.com/#/?code=xchu9CoT)
-
-2026 年新机场，全平台自研客户端，IPLC 专线，支持 VLESS 协议。入门订阅 24 元/月。
-
-### [梯子云](https://shadow.ladderaff.com/#/?code=1eFGv00U)
-
-【[站内介绍](/ladder)】【[官网直达](https://shadow.ladderaff.com/#/?code=1eFGv00U)】
-
-2026 年新机场，全平台自研客户端，IPLC 专线，支持 VLESS 协议，解锁 AI 与流媒体。入门订阅 25 元/月。
-
-### [极速 Cloud](https://191.101.132.80/#/register?code=FPYVJ8Yf)
-
-2026 年新机场，小众地域节点支持广泛，支持 VLESS 协议，兼容 Clash/Mihomo 订阅。入门订阅 30 元/月。
-
-### [无忧链接](https://shadow_vps.worryfreeaff.com/#/?code=bDVnNZ9Y)
-
-2026 年新机场，全平台自研客户端，IPLC 专线，VMess 协议。入门订阅 19 元/月。
-
-### [锦云](https://w2.whengdl.com/#/register?code=aeDs9Tg6)
-
-采用全新 AnyTLS 协议，小众地域节点支持广泛，IPLC 专线，兼容 Clash/Mihomo 订阅。入门订阅 6 元/月。
-
-### [边缘节点 EdgeNode/EdgeNova](https://limitoffer.edgenovaaff.cc/#/register?code=lNKie3Jl)
-
-2026 年新机场，全平台自研客户端，IEPL 专线，支持 VLESS、AnyTLS 协议，峰值速率 1Gbps。入门订阅 25 元/月。
-
-### [速界](https://shadow_vps.speedworldaff.com/#/?code=MNcshgzF)
-
-2026 年新机场，全平台自研客户端，IEPL 专线，支持 VLESS、AnyTLS 协议，峰值速率 1Gbps。入门订阅 25 元/月。
-
-### [Echo 机场](https://1.6888n.cn/#/register?code=rYhpei09)
-
-老牌机场，IPLC 专线，兼容 Clash/Mihomo 订阅。机场大师标记为风险，**官方网站宕机**。入门订阅 20 元/月。
-
-### [云图机场 CloudMap](https://vip.ytjcok.org/#/register?code=j2bm10sm)
-
-【[站内介绍](/cloudmap)】【[官网直达](https://vip.ytjcok.org/#/register?code=j2bm10sm)】
-
-2026 年新机场，采用全新 AnyTLS 协议，金融级专线传输，三网优化，兼容 Clash/Mihomo 订阅。入门订阅 25 元/月。
-
-### [瞬云](https://ccc.jichang.best/#/register?code=RZXikfqO)
-
-【[站内介绍](/syjccloud)】【[官网直达](https://ccc.jichang.best/#/register?code=RZXikfqO)】
-
-机场大师标记为风险：机场监测显示全部节点宕机（截至 2026-11-07），暂不推荐。
-
-2026 年新机场，采用全新 AnyTLS 协议，自研客户端，峰值速率 2.5Gbps，兼容通用 Clash 配置文件。入门订阅 20 元/月。
-
-### [一翻云](https://shadowvps.yifanaff.com/#/register?code=5pHch66L)
-
-2026 年新机场，全平台自研客户端，支持 VLESS、AnyTLS 协议，峰值速率 1Gbps。入门订阅 25 元/月。
-
-### [Sogo云](https://vpsrank.sogoaff.com/#/login?code=9MXtlxq4)
-
-全平台自研客户端并兼容主流代理软件，企业级 IPLC 专线，三网优化与智能负载均衡，支持 AnyTLS、VLESS 协议，覆盖全球 60+ 节点，解锁 AI 与流媒体，不限制同时在线设备。入门订阅 25 元/月（另有 98 元/年付小包及不限时按量套餐）。
-
-### [一号云 One](https://47.243.112.133:5111/#/register?code=FAMeoHVr)
-
-**官方优惠码**：yihao
-
-三网优化精品线路，支持 IPv6，全节点解锁 AI 与流媒体，兼容 Clash/Shadowrocket 订阅。入门订阅 7 元/月（另有 19.9 元/年 100G、29.9 元/年 300G 优惠包）。
-
-### [九云](https://216.236.63.122/#/register?invite_code=Der5oAyd)
-
-**全场 8 折优惠码**：9yun
-
-千兆突发大带宽（1000Mbps），覆盖港日新台美，全节点解锁 AI 与流媒体，提供周期与按量套餐，年付买 10 送 2。入门订阅 5 元/月（300GB）。
-
-### [稳连云](https://w2.wenliandl.com/#/register?invite_code=m0TikC52)
-
-**官方优惠码**：wenlian
-
-多网优化专线与原生住宅 ISP 家宽接入，24 小时不限速（1~3Gbps 突发），全节点低倍率，解锁 AI 与流媒体。入门订阅 8 元/月（另有 29.9 元/年 100G/月优惠包）。
-
-### [鲤云](https://l8.liyun888dl.com//app.html#/register?code=njlfzObZ)
-
-**官方优惠码**：liyun888
-
-国内优化专线与中转加速，覆盖港台日新美五大核心地区，全流媒体与 AI 解锁。入门订阅 5 元/月（另有 29.9 元/年 300G 锦鲤包）。
-
-### [宝云机场](https://by2.baoyundl.com/#/register?invite_code=iWRAKY88)
-
-**全场 8 折优惠码**：baoyun
-
-高速智能优化线路，覆盖港台日新美等主流地区，支持流媒体解锁，兼容 Clash/Shadowrocket 订阅。入门订阅 4 元/月（200GB，另有 16.9 元/年 500G 优惠包）。
-
-### [小蜜蜂 XMFWWW](https://inva.xmfaff.cc/register?aff=Gsv93MEy)
-
-海外团队运营，主打 Trojan/VLESS 协议的 V2Ray 机场，**IEPL国际专线，原生IP节点**。峰值速率 2.5Gbps。入门订阅 20 元/月。
-
-### [星岛梦](https://wuyou202001.xdmvipaff.cc/#/?code=oRHUjMod)
-
-2026 年新机场，全平台自研客户端，IPLC 专线，主打 Trojan 协议。入门订阅 25 元/月。
-
-### [**闪狐云 Flash Fox**](https://inv03.ffaff.cc/register?aff=Q1NgBTYd)
-
-全平台自研客户端，IPLC 专线机场，支持 VLESS/Trojan 协议。入门订阅 20 元/月。
-
-### [青云梯 QYT](https://ivt02.qytaff.cc/register?aff=iGdya5NS)
-
-新加坡团队运营，全平台自研客户端，IPLC 专线机场，支持 VLESS/Trojan 协议，低延迟，单节点峰值 2.5Gbps。原生 IP，支持主流 AI 工具及流媒体解锁。不限制同时在线设备。入门订阅 25 元/月。
-
-### [**二猫云**](https://01.2maoyunaff.cc/#/register?code=OFmPdWji)
-
-【[站内介绍](/2maoyuntt/)】【[官网直达](https://01.2maoyunaff.cc/#/register?code=OFmPdWji)】
-
-2026 年新机场，全平台自研客户端，IEPL 专线，抗封锁能力强，晚高峰（20:00-23:00）表现优异。入门订阅 20 元/月。
-
-### [**银河云 Galaxy Cloud**](https://inv03.galaxyaff.cc/register?aff=SAsFSLEQ)
-
-新加坡团队运营，主打 Trojan 协议的 IPLC 专线机场，2.5Gbps 速率，不限制同时在线设备数。入门订阅 18 元/月。
-
-### [肥猫云 FatCat](https://inv01.fatcatcloud.cc/register?aff=NgDxu7Qm)
-
-全 IEPL专线传输，不限速，BGP 三线 + 纯专线出口，流媒体支持 8K。入门订阅 20 元/月。
-
-### [**蓝帆云**](https://lanfanz.cc/portal/register?code=2OA2)
-
-**7 折优惠码（限年付）**：lanfan
-
-可选 IEPL 专线节点，VMess 协议。入门订阅 13 元/月。
-
-### [尔湾云](https://ewanwtt.net/auth/register?code=6zBETW)
-
-VMess 协议，峰值速率 500Mbps。入门订阅 25 元/月。
-
-### [**一云梯**](https://inv01.1ytaff.com/register?aff=NkAlyJDv)
-
-**8 折优惠码**：255120OFF
-
-**75 折优惠码（两年/三年付）**：255125OFF
-
-全 IPLC 专线传输，不限速，不限制设备数，Trojan 协议。入门订阅 15 元/月。
-
-### [**Just My Socks**](https://justmysocks5.net/members/aff.php?aff=28464)
-
-搬瓦工（BandwagonHost）旗下机场，自动切换被墙 IP，2.5Gbps-5Gbps 速率可选。入门订阅 5.88 美元/月。
-
-### [全球云](https://shadow.gcvipaff.com/#/?code=xt1gTZow)
-
-2026 年新机场，BGP 多线路智能调度 + 专线级出口架构。入门订阅 20 元/月。
-
-### [SRNet](https://www.sspro.org/aff.php?aff=1694)
-
-全线路采用 Trojan 协议，可选 IPv6，ChatGPT 访问支持。入门订阅 15 元/月。
-
-### [FlyingBird 飞鸟](https://fbinv02.fbaff.cc/auth/register?code=E6rH)
-
-不限制客户端数量，不限制连接速率。季付 9 折，半年 85 折，年付 8 折。入门订阅 15 元/月。
-
-### [v2net](http://x.v2ray.cx/aff.php?aff=3901)
-
-入门订阅 1.90 美元/月。（**仅试用，不支持退款**）
-
-### [V2free](https://w1.v2free.cc/auth/register?code=ut61)
-
-入门订阅 15 元/月。（**仅试用，不支持退款**）
-
-### [**Bridge The Wise**](https://patriot.ninja/aff.php?aff=2143)
-
-机场大师标记为风险：有清空用户数据的记录。
-
-可选 IPLC 专线，ChatGPT 访问支持，最多允许 5 个设备同时在线。入门订阅 25.45 元/月。
-
-### [**可信云**](https://01.kosingcloudt.cc/#/register?code=aDx5tYE2)
-
-【[站内介绍](/kosingcloudt/)】【[官网直达](https://01.kosingcloudt.cc/#/register?code=aDx5tYE2)】
-
-2026 年新机场，IEPL 专线，全平台自研客户端，晚高峰（20:00-23:00）表现优异。入门订阅 25 元/月。
-
-### [**TNT Cloud**](https://w05.tntyunb01.cc/#/register?code=bnj4SRkC)
-
-机场大师标记为风险：疑似跑路（2026-08-31 起多方反馈节点全部不可用、客服失联），暂停推荐。
-
-全平台自研客户端，IPLC 专线。入门订阅 10 元/月。
-
-### [光速云](https://ferhuire.gsyvipaff.com/#/?code=A7TcwbkO)
-
-2026 年新机场，IPLC 专线，支持 VLESS 协议。入门订阅 17 元/月。
-
-### [隐形人](https://asfeoasf.invisibleattt.sbs/#/?code=8kjA2hGf)
-
-【[站内介绍](/invisible)】【[官网直达](https://asfeoasf.invisibleattt.sbs/#/?code=8kjA2hGf)】
-
-新加坡海外团队运营，全平台自研客户端，IPLC 纯专线，支持 VLESS 协议，1 小时故障修复，解锁 AI 与流媒体。入门订阅 24 元/月。
-
-### [寰宇云](https://vip3.huanyuyunbest.com/#/register?code=2vW5C1r4)
-
-【[站内介绍](/huanyuyunvip)】【[官网直达](https://vip3.huanyuyunbest.com/#/register?code=2vW5C1r4)】
-
-2026 年新机场，采用全新 AnyTLS 协议，海外团队运营，8 年行业经验。IPLC 专线，峰值速率 2.5Gbps，兼容通用 Clash/Mihomo 配置文件。入门订阅 16 元/月。
-
-### [**唯兔云**](https://wt03.fedttt.my/#/?code=TZjwRULn)
-
-新晋机场，全平台自研客户端，全 IPLC 专线机场。入门订阅 79.9 元/年度或 14.9 元/月度。
-
-### [灵动云](https://asfweroasf.lingdongttt.sbs/#/?code=TEU4muQD)
-
-2026 年新机场，全平台自研客户端，BGP 智能调度线路，支持 VLESS 协议。入门订阅 20 元/月。
+排名与价格以 [机场大师](https://jichangdashi.com/) 首页为准；更多机场优惠见 [VPS World](https://vpsworld.org/)，可用性监测见 [机场监测](https://jichang.watch/)。本站只做整理，不构成购买建议。
