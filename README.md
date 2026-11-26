@@ -34,7 +34,7 @@
 30. **[银河云](https://inv03.galaxyaff.cc/register?aff=SAsFSLEQ)** — 银河云机场 GalaxyCloud，成立于 2024 年 6 月，新加坡海外团队运营，性价比专线，24 小时在线客服，专业、靠谱、稳定，任何线路问题都是 1 小时内修复处理，支持退款。 参考起步价 ¥18/月。
 31. **[肥猫云 FatCat](https://inv01.fatcatcloud.cc/register?aff=NgDxu7Qm)** — 肥猫云机场 FatCat，全中转大带宽全部节点原生 IP，全部节点解锁 ChatGPT、TikTok 等。 参考起步价 ¥20/月。
 32. **[蓝帆云](https://lanfanz.cc/?code=2OA2)** — 可选 IEPL 专线节点，入门订阅 11.99 元/月。
-33. **[尔湾云](https://ewanwtt.net/auth/register?code=6zBETW)** — 新兴厂商，此前文章标注存在风险，购买前请自行核实。
+33. **[尔湾云](https://ewanwtt.net/auth/register?code=6zBETW)** — 新兴厂商，购买前请自行核实。
 34. **[一云梯](https://inv01.1ytaff.com/register?aff=NkAlyJDv)** — 全 IPLC 专线传输，不限速，不限制设备数，入门订阅 15 元/月。
 35. **[Just My Socks](https://justmysocks5.net/members/aff.php?aff=28464)** — 搬瓦工旗下机场，自动切换被墙 IP，2.5–5 Gbps 速率可选。
 36. **[全球云机场](https://shadow.gcvipaff.com/#/?code=xt1gTZow)** — 全球云机场，成立于 2026 年初，是一家专注提供出海专线加速与流媒体解锁服务的网络加速品牌。 参考起步价 ¥20/月。
