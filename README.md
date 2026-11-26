@@ -8,9 +8,9 @@ VPS World：https://vpsworld.org/fanqiang-ranking/
 
 ---
 
-## **🥇 [Gatern](https://s.gtoyes.com/aff.php?aff=5181)**
+## **🥇 [Gatern](https://s.gtnb.net/invite/e6ZDC8kB3GN9)**
 
-【[站内介绍](/v2ray-gatern)】【[官网直达](https://s.gtoyes.com/aff.php?aff=5181)】
+【[站内介绍](/v2ray-gatern)】【[官网直达](https://s.gtnb.net/invite/e6ZDC8kB3GN9)】
 
 老牌机场，IPLC 专线。除了支持常规亚洲线路外，额外支持：马来西亚、菲律宾、印度尼西亚、印度、泰国、越南、巴基斯坦、以色列、哈萨克斯坦、阿联酋、澳大利亚、新西兰、美国、加拿大、墨西哥、阿根廷、巴西、英国、法国、德国、意大利、荷兰、瑞典、俄罗斯、乌克兰、土耳其、波兰、丹麦、立陶宛、拉脱维亚、瑞士、罗马尼亚、埃及、南非、尼日利亚等小众地域节点。
 
