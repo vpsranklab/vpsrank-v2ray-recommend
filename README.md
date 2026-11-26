@@ -26,7 +26,7 @@
 22. **[稳连云](https://w2.wenliandl.com/#/register?invite_code=m0TikC52)** — 稳连云机场是一家专注于中国大陆方向极致优化的综合型专线网络加速服务商。 参考起步价 ¥8/月。
 23. **[鲤云](https://l8.liyun888dl.com//app.html#/register?code=njlfzObZ)** — 鲤云机场是一家主打超高性价比的出海专线加速服务商，致力于为外贸办公、学术科研、轻量出海追剧以及 AI 工具使用者提供低门槛、高稳定性的网络连接服务。 参考起步价 ¥5/月。
 24. **[宝云机场](https://by2.baoyundl.com/#/register?invite_code=iWRAKY88)** — 宝云机场是一家专注于超高性价比与大流量供给的高速网络加速服务商。 参考起步价 ¥4/月。
-25. **[小蜜蜂机场 XMFWWW](https://a01.xmfvipaffa03.cc/register?aff=Gsv93MEy)** — 小蜜蜂机场 xmfwww，海外团队运营，全 IEPL 专线机场，原生 IP 节点，全部节点解锁 ChatGPT、Netflix、TikTok 等。 参考起步价 ¥20/月。
+25. **[小蜜蜂机场 XMFWWW](https://invb.xmfaff.cc/register?aff=VyOWt6Yb)** — 小蜜蜂机场 xmfwww，海外团队运营，全 IEPL 专线机场，原生 IP 节点，全部节点解锁 ChatGPT、Netflix、TikTok 等。 参考起步价 ¥20/月。
 26. **[星岛梦](https://xm02.xingdaomengaff.com/)** — 星岛梦机场，成立于 2025 年，海外团队运营，性价比专线，24 小时在线客服，专业、靠谱、稳定。 参考起步价 ¥25/月。
 27. **[闪狐云 Flash Fox](https://inv03.ffaff.cc/register?aff=Q1NgBTYd)** — 闪狐云机场 Flash Fox，海外团队运营，通过五大运营商 BGP+IPLC 动态优化和国际多个出口节点，采用TLS协议加密技术，保障网络连接稳定无忧。 参考起步价 ¥20/月。
 28. **[青云梯 QYT](https://ivt02.qytaff.cc/register?aff=iGdya5NS)** — 青云梯机场 QYT，成立于 2021 年 11 月，新加坡海外团队运营，性价比专线，24 小时在线客服，专业、靠谱、稳定，任何线路问题都是 1 小时内修复处理，支持退款。 参考起步价 ¥25/月。
