@@ -43,7 +43,7 @@
 39. **[v2net](http://x.v2ray.cx/aff.php?aff=3901)** — 入门订阅 1.90 美元/月，仅试用，不支持退款。
 40. **[v2free](https://w1.v2free.cc/auth/register?code=ut61)** — 入门订阅 5 元/月，仅试用，不支持退款。
 41. **[Bridge The Wise](https://x.compasssec.net/#/register?code=caBHDjYc)** — 高端 V2Ray 机场，IPLC 专线与经济线路选择，支持 2 天低价试用。 参考起步价 ¥25.4/月。 ⚠️ 此前文章标注过风险，购买前请自行核实。
-42. **[TNT Cloud](https://shadowotone.tntvipaff.cc/#/register?code=bnj4SRkC)** — 2024 年 7 月成立的新兴机场，主打 Trojan 协议。⚠️ 机场大师标记为风险：疑似跑路（2026-08-31 起多方反馈节点不可用、客服失联），暂停推荐。
+42. **[TNT Cloud](https://w05.tntyunb01.cc/#/register?code=bnj4SRkC)** — 2024 年 7 月成立的新兴机场，主打 Trojan 协议。⚠️ 机场大师标记为风险：疑似跑路（2026-08-31 起多方反馈节点不可用、客服失联），暂停推荐。
 43. **[光速云](https://ferhuire.gsyvipaff.com/#/?code=A7TcwbkO)** — 光速云机场 LightSpeed，成立于 2025 年，海外团队运营，性价比专线，24 小时在线客服，专业、靠谱、稳定。 参考起步价 ¥17/月。
 44. **[隐形人](https://asfeoasf.invisibleattt.sbs/#/?code=8kjA2hGf)** — 隐形人（Invisible）是新加坡海外团队打造的大机房纯专线机场，同时也是面向全球的高性能、低延迟专线接入与联盟合作伙伴平台。 参考起步价 ¥24/月。
 45. **[寰宇云](https://vip3.huanyuyunbest.com/#/register?code=2vW5C1r4)** — 寰宇云机场，成立于 2026 年初，是一家专注提供出海专线加速与流媒体解锁服务的网络加速品牌。 参考起步价 ¥16/月。
