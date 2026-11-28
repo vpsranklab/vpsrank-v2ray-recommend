@@ -53,8 +53,8 @@
 49. **[Just My Socks](https://justmysocks5.net/members/aff.php?aff=28464)** — 搬瓦工旗下机场，自动切换被墙 IP，2.5–5 Gbps 速率可选。
 50. **[全球云机场](https://shadow.gcvipaff.com/#/?code=xt1gTZow)** — 全球云机场，成立于 2026 年初，是一家专注提供出海专线加速与流媒体解锁服务的网络加速品牌。 参考起步价 ¥20/月。
 51. **[SRnet](https://www.sspro.org/aff.php?aff=1694)** — SRNet机场 是一家专业的高速稳定机场，支持 Netflix/HULU 等主流流媒体视频，以及 ChatGPT 访问。 参考起步价 ¥15/月。
-52. **[v2net](http://x.v2ray.cx/aff.php?aff=3901)** — 入门订阅 1.90 美元/月，仅试用，不支持退款。
-53. **[FlyingBird 飞鸟](https://fbinv02.fbaff.cc/auth/register?code=E6rH)** — 不限客户端数量，不限连接速率，入门订阅 15 元/月。
+52. **[FlyingBird 飞鸟](https://fbinv02.fbaff.cc/auth/register?code=E6rH)** — 不限客户端数量，不限连接速率，入门订阅 15 元/月。
+53. **[v2net](http://x.v2ray.cx/aff.php?aff=3901)** — 入门订阅 1.90 美元/月，仅试用，不支持退款。
 54. **[v2free](https://w1.v2free.cc/auth/register?code=ut61)** — 入门订阅 5 元/月，仅试用，不支持退款。
 55. **[Bridge The Wise](https://x.compasssec.net/#/register?code=caBHDjYc)** — 高端 V2Ray 机场，IPLC 专线与经济线路选择，支持 2 天低价试用。 参考起步价 ¥25.4/月。 ⚠️ 此前文章标注过风险，购买前请自行核实。
 56. **[TNT Cloud](https://w05.tntyunb01.cc/#/register?code=bnj4SRkC)** — 2024 年 7 月成立的新兴机场，主打 Trojan 协议。⚠️ 机场大师标记为风险：疑似跑路（2026-08-31 起多方反馈节点不可用、客服失联），暂停推荐。
